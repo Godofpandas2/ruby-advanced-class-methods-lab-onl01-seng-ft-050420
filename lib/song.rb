@@ -35,5 +35,5 @@ class Song
         result = song
       end
     end
-    
+
 end
