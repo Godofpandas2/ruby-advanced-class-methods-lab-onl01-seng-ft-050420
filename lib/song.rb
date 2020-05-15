@@ -44,5 +44,6 @@ class Song
       return self.find_by_name
     else
       return self.create_by_name
+    end
   end
 end
